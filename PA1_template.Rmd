@@ -2,7 +2,9 @@
 title: "Reproducible Research Course Project 1"
 author: "Magdalena Delaporte"
 date: "26-09-2020"
-output: html_document
+output: 
+  html_document:
+    keep_md: true
 ---
 ## Loading and procesing the data
 1. Load the data
